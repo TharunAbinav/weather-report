@@ -1,4 +1,4 @@
-# weather-report
+# weather-report(A.K.A Your Weather Wizard)
 ![alt text](https://github.com/TharunAbinav/weather-report/blob/main/logo.png)
 
 
