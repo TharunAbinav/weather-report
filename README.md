@@ -5,10 +5,10 @@
 Weather Wizard is a web application that allows users to get weather reports for different cities. Users can enter a city name, view the current weather conditions, and toggle between Celsius and Fahrenheit units. The application also displays the local time and provides random motivational quotes.
 
 ## Features
-Get weather reports for any city
-Toggle between Celsius and Fahrenheit units
-Display local time
-Show random motivational quotes
+- Get weather reports for any city
+- Toggle between Celsius and Fahrenheit units
+- Display local time
+- Show random motivational quotes
 
 ## Screenshots
 
