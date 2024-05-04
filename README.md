@@ -27,17 +27,17 @@ To run the Weather Wizard application locally, follow these steps:
 5.Enjoy random motivational quotes that change every 30 seconds.
 
 ## Technologies Used
-HTML5
-CSS3
-JavaScript
-OpenWeatherMap API
+- HTML5
+- CSS3
+- JavaScript
+- OpenWeatherMap API
 
 ## Credits
 This project uses the following resources:
 
-Fonts from Google Fonts (Montserrat)
-Weather icons from OpenWeatherMap
-Motivational quotes from various authors
+- Fonts from Google Fonts (Montserrat)
+- Weather icons from OpenWeatherMap
+- Motivational quotes from various authors
 
 ## License
 The Weather Wizard project is licensed under the MIT License.
