@@ -26,8 +26,8 @@ Weather Wizard is a web application that allows users to get weather reports for
 ## Screenshots
 
 ![alt text](https://github.com/TharunAbinav/weather-report/blob/main/cover1.png)
-![alt text](https://github.com/TharunAbinav/weather-report/blob/main/logo.png)
-![alt text](https://github.com/TharunAbinav/weather-report/blob/main/logo.png)
+![alt text](https://github.com/TharunAbinav/weather-report/blob/main/cover.png)
+![alt text](https://github.com/TharunAbinav/weather-report/blob/main/cover4.png)
 
 ## Installation
 To run the Weather Wizard application locally, follow these steps:
