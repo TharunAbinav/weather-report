@@ -1,6 +1,6 @@
 ## Weather Wizard
 
-
+![alt text](https://github.com/TharunAbinav/weather-report/blob/main/logo.png)
 
 ## Table of Contents
 - [Description](#Description)
