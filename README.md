@@ -1,5 +1,16 @@
 ## Weather Wizard
 
+## Table of Contents
+- [Description](#Description)
+- [Features](#Features)
+- [Screenshots](Screenshots)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Technologies Used](#Technologies Used)
+- [Credits](#Credits)
+- [License](#License)
+
+
 ## Description
 
 Weather Wizard is a web application that allows users to get weather reports for different cities. Users can enter a city name, view the current weather conditions, and toggle between Celsius and Fahrenheit units. The application also displays the local time and provides random motivational quotes.
