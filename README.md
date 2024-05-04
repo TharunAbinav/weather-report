@@ -6,7 +6,7 @@
 - [Screenshots](Screenshots)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#TechnologiesUsed)
 - [Credits](#Credits)
 - [License](#License)
 
